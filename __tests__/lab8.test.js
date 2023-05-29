@@ -150,8 +150,4 @@ describe('Basic user flow for Website', () => {
             () => localStorage.getItem('cart') == '[]'
         )).toBe(true);
     });
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> 91bc477bab9fee7e1d3c18f39b510822c6f0da8b
