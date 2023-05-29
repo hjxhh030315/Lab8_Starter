@@ -7,4 +7,8 @@ test('adds 1 + 2 to equal 3', () => {
 
 test('adds 1 + 2 to equal 3', () => {
     expect(sum(1, 2)).toBe(3);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 91bc477bab9fee7e1d3c18f39b510822c6f0da8b
